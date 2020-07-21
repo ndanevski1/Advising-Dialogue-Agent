@@ -1,6 +1,5 @@
 # Advising-Dialogue-Agent
-This is a group project done as part of my Undergraduate Research Course. 
-Due to University policy, I am not allowed to share code publicly. Please contact me further regarding this.
+This is a group project done as part of my Undergraduate Research Course. I have only the final paper as a presentation for this project because due to University policy, I am not allowed to share code publicly. Please contact me further regarding this. 
 
 # Project Description
 Pawlicki-in-a-box (named after a Computer Science Professor at the University of Rochester) is an agent that aims to compute accurate, precise, and actionable answers to an advisee's question related to choosing which courses to take during an upcoming semester. 
